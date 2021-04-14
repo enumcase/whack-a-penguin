@@ -1,2 +1,2 @@
-# whack-a-penguin
-Simple SpriteKit game
+# Whack-a-Penguin
+Simple SpriteKit whack-a-mole game - whack a penguin to win
